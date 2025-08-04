@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-08-05T00:09:41.479361",
+    "type": "multi",
+    "queries": [
+      "India Kolkata hotels",
+      "India agra Doctors",
+      "India Goa Beaches"
+    ],
+    "limit": 25,
+    "results_count": 75
+  },
+  {
+    "timestamp": "2025-08-05T00:24:31.182893",
+    "type": "multi",
+    "queries": [
+      "India Kolkata hotels",
+      "India agra Doctors",
+      "India Goa Beaches"
+    ],
+    "limit": 10,
+    "results_count": 30
+  },
+  {
+    "timestamp": "2025-08-05T00:34:17.609944",
+    "type": "multi",
+    "queries": [
+      "India Kolkata hotels",
+      "India agra Doctors",
+      "India Goa Beaches"
+    ],
+    "limit": 12,
+    "results_count": 36
+  },
+  {
+    "timestamp": "2025-08-05T00:45:29.884508",
+    "type": "single",
+    "query": "hotel in pune",
+    "limit": 10,
+    "results_count": 9
+  },
+  {
+    "timestamp": "2025-08-05T00:47:59.473947",
+    "type": "multi",
+    "queries": [
+      "India Kolkata hotels",
+      "India agra Doctors",
+      "India Goa Beaches"
+    ],
+    "limit": 5,
+    "results_count": 15
+  },
+  {
+    "timestamp": "2025-08-05T00:57:23.439437",
+    "type": "multi",
+    "queries": [
+      "India Kolkata hotels",
+      "India agra Doctors",
+      "India Goa Beaches"
+    ],
+    "limit": 2,
+    "results_count": 6
+  }
+]
