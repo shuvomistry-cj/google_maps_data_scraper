@@ -1,0 +1,48 @@
+﻿# Virtual environments
+venv/
+env/
+scrapervnv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.Desktop.ini
+Thumbs.db
+
+# Output files
+output/
+*.xlsx
+*.csv
+*.txt
+!requirements.txt
+!input.txt
+
+# Debug files
+debug_*.png
+*.log
+
+# Temp files
+streamlit_app_*.txt
+main_*.txt
+main copy.txt
+streamlit_app copy.txt
+working_*.py
